@@ -12555,11 +12555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vs2017\\workspace\\NetCoreDemo\\NetCoreDemo.API\\NetCoreDemo.API.csproj",
+      "projectUniqueName": "D:\\vs2019\\git\\NetCoreDemo\\NetCoreDemo.API\\NetCoreDemo.API.csproj",
       "projectName": "NetCoreDemo.API",
-      "projectPath": "D:\\vs2017\\workspace\\NetCoreDemo\\NetCoreDemo.API\\NetCoreDemo.API.csproj",
+      "projectPath": "D:\\vs2019\\git\\NetCoreDemo\\NetCoreDemo.API\\NetCoreDemo.API.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\vs2017\\workspace\\NetCoreDemo\\NetCoreDemo.API\\obj\\",
+      "outputPath": "D:\\vs2019\\git\\NetCoreDemo\\NetCoreDemo.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -18,7 +18,7 @@ namespace NetCoreDemo.API.Controllers
             if (_context.TicketItems.Count() == 0)
             {
                 var uuid = Guid.NewGuid().ToString();
-                _context.TicketItems.Add(new TicketItem { Concert = "Beyonce", Artist = "杰克斯", Available = true });
+                _context.TicketItems.Add(new TicketItem { Concert = "Beyonce", Artist = "汉克斯", Available = true });
                 _context.TicketItems.Add(new TicketItem { Concert = "Rush", Artist = "Tom", Available = true });
                 _context.SaveChanges();
             }

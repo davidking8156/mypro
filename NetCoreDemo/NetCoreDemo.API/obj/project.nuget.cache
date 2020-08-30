@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YhO7Or8qLyxDTqC2NZhjEYnWhl/rRH4+B6VyijchNizsnk6LKYjQEm99QNAM+YJuAULxwXhFmXMZk+HIjTJT/w==",
+  "dgSpecHash": "4EGvk7UI30bv7V6gRcb3F1Et1SGmEIpZlKEBxA4XuPBHyEB+9Vq6PQsmqrIjG9pusa7gLkrnOOkUfp8hsXZaiQ==",
   "success": true,
-  "projectFilePath": "D:\\vs2017\\workspace\\NetCoreDemo\\NetCoreDemo.API\\NetCoreDemo.API.csproj",
+  "projectFilePath": "D:\\vs2019\\git\\NetCoreDemo\\NetCoreDemo.API\\NetCoreDemo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
