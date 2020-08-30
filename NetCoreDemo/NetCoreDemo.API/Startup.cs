@@ -36,7 +36,7 @@ namespace NetCoreDemo.API
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseMvc();
+            app.UseMvcWithDefaultRoute();
         }
     }
 }
