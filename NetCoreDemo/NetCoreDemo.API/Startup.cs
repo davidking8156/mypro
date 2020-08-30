@@ -37,6 +37,7 @@ namespace NetCoreDemo.API
             }
 
             app.UseMvcWithDefaultRoute();
+
         }
     }
 }
